@@ -1,10 +1,10 @@
-# webpack-intro-jsvigo
+# Introducción a Webpack2
 
-Repositorio para el Meetup de JSVigo, Introducción a Webpack [04/03/17]
+Repositorio para el Meetup#2 de JSVigo, Introducción a Webpack2 @ Kaleido Coworking, Vigo [04/03/17]
 
 Slides: [https://slides.com/ivannieto-1/intro-webpack2/live](https://slides.com/ivannieto-1/intro-webpack2/live)
 
-Requisitos para seguir el proyecto:
+Para trabajar sobre el proyecto del Meetup, deberás tener instalado al menos:
 
 - git
 - yarn o npm
