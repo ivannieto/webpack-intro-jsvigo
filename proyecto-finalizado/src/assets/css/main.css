@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: url('../images/example.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 100px;
+    color: white;
+}
+
+p {
+    font-size: 5rem;
+}
+
+header {
+    border-bottom: 1px solid white;
+    margin-bottom: 60px;
+}
+
+.companyLogo {
+    max-width: 150px;
+}
